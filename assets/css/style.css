@@ -198,7 +198,7 @@ h1, h2, h3, h4, h5, h6 {
 #accueil {
   width: 100%;
   height: 100vh;
-  background: url("../img/img-az.jpg") top center;
+  background: url("../img/img-home2.jpg") top center;
   background-size: cover;
 }
 #hero:before {
@@ -221,7 +221,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 64px;
   font-weight: 700;
   line-height: 56px;
-  color: #fff;
+  color: #cd2;
 }
 #hero p {
   color: #fff;
@@ -951,4 +951,10 @@ section {
     width: auto;
     padding-right: 20px 15px;
   }
+}
+.com{
+  color: orange;
+  text-align: center;
+  padding-left: 10%
+  padding-top
 }
